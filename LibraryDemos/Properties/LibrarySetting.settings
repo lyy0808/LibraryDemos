@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LibraryDemos" GeneratedClassName="LibrarySetting">
+  <Profiles />
+  <Settings>
+    <Setting Name="ISerove" Type="System.String" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="cd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">13333</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
